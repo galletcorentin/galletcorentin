@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blood Music on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/blood-music/</link>
+    <description>Recent content in Blood Music on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 10:18:22 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/label/blood-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Escape Velocity</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/escape_velocity/</link>
+      <pubDate>Sat, 04 May 2024 10:18:22 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/escape_velocity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Origins</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/origins/</link>
+      <pubDate>Sun, 07 Apr 2024 15:05:46 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/origins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Night Driving Avenger</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/night_driving_avenger/</link>
+      <pubDate>Sun, 07 Apr 2024 15:02:55 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/night_driving_avenger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nocturne City</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/nocturne_city/</link>
+      <pubDate>Mon, 01 Apr 2024 19:26:36 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/nocturne_city/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

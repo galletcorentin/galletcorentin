@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FIXT on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/fixt/</link>
+    <description>Recent content in FIXT on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 16:26:19 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/label/fixt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Circle of Dust</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/circle_of_dust/</link>
+      <pubDate>Sun, 07 Apr 2024 16:26:19 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/circle_of_dust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>198XAD</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/198xad/</link>
+      <pubDate>Mon, 01 Apr 2024 19:28:34 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/198xad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Renaissance</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/data_renaissance/</link>
+      <pubDate>Mon, 01 Apr 2024 19:23:23 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/data_renaissance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>God in the Machine</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/god_in_the_machine/</link>
+      <pubDate>Mon, 01 Apr 2024 19:16:57 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/god_in_the_machine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Scandroid</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/scandroid/</link>
+      <pubDate>Sun, 31 Mar 2024 22:56:30 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/scandroid/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

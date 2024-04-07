@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secret Identities on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/secret-identities/</link>
+    <description>Recent content in Secret Identities on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 16:11:53 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/secret-identities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amber</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/amber/</link>
+      <pubDate>Fri, 19 Apr 2024 16:11:53 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/amber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saboteur</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/saboteur/</link>
+      <pubDate>Sun, 14 Apr 2024 22:24:47 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/saboteur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Exit</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/exit/</link>
+      <pubDate>Sun, 14 Apr 2024 22:23:04 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/exit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Citadelles</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/citadelles/</link>
+      <pubDate>Sun, 14 Apr 2024 22:21:38 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/citadelles/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

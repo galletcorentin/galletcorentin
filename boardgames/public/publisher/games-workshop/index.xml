@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games Workshop on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/games-workshop/</link>
+    <description>Recent content in Games Workshop on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2024 22:26:17 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/games-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Warhammer 40k (V3-V8)</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/warhammer_40k/</link>
+      <pubDate>Sun, 14 Apr 2024 22:26:17 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/warhammer_40k/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Warhammer Battle (V6-V8)</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/warhammer_battle/</link>
+      <pubDate>Sun, 14 Apr 2024 22:26:07 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/warhammer_battle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Space Hulk V2</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/space_hulk/</link>
+      <pubDate>Sun, 14 Apr 2024 22:25:04 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/space_hulk/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

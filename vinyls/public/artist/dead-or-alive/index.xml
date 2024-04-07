@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dead or Alive on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/dead-or-alive/</link>
+    <description>Recent content in Dead or Alive on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 15:52:52 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/dead-or-alive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hooked on love</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/hooked_on_love/</link>
+      <pubDate>Sun, 07 Apr 2024 15:52:52 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/hooked_on_love/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Islanders on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/the-islanders/</link>
+    <description>Recent content in The Islanders on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2024 10:22:06 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/the-islanders/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hawaiian Paradise</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/hawaiian_paradise/</link>
+      <pubDate>Sat, 04 May 2024 10:22:06 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/hawaiian_paradise/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

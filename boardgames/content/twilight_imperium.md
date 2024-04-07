@@ -1,0 +1,100 @@
+---
+# Mandatory parts :
+title: "Twilight Imperium V4"
+date: 2024-04-14T21:56:50+02:00
+draft: false
+
+# Optional parts that you still should fill in order to sort your collection
+
+## Publisher
+publisher: Edge
+
+## Categories
+category:
+#  - Cards
+  - Dice
+#  - Draft
+#  - Evolution-like
+#  - Meeples
+#  - Miniatures
+#  - RPG
+  - Tabletop
+
+## Cover image : will be displayed in the album list and top page.
+## Display a default one unless you change this value.
+## Fill this value with the path of the picture located in the static folder
+cover: twilight_imperium.png
+
+# More optional details you can use for your collection.
+
+## A quick description of your record. Markdown is supported
+# description: |
+#    This is a great album.
+
+players:
+#  - 1 player
+#  - 2 players
+  - 3 players
+  - 4 players
+  - 5 players
+  - 6 players
+  - 7 players
+  - 8 players
+#  - 9 players+
+
+extensions:
+  - Prophecy of Kings
+  - Some parts of Codex 1
+  - Some parts of Codex 2
+  - Some parts of Codex 3
+  - Additional dice
+  - Mat
+  - Fleet stands
+  - Vote board
+  - Score board
+  - Faction cards (for drafting)
+
+# Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign
+time: whole day
+
+interaction:
+  - Alliance
+#  - Casual
+  - Commerce
+#  - Competitive
+#  - Co-operative
+  - Diplomacy
+  - Elimination
+#  - Limited spots
+#  - Secret identities
+
+universe:
+#  - Cyber
+#  - Dinosaurs
+#  - Gothic
+#  - Fantasy
+#  - Middle Ages
+#  - No theme
+#  - Renaissance
+#  - Modern Times
+  - Scfi-fi
+  - Space
+
+## Any supplementary pictures you want to display.
+## These pictures should be in the site asset folder : <your hugo site>/static
+## If you put them into a sub-folder, don't forget it in the path !
+pictures:
+  - twilight_imperium_example.jpg
+
+## The publish year
+# year: 1990
+
+## What is its condition, new ? used ? bad ?
+condition: used
+
+location: Home
+
+bgg: 233078/twilight-imperium-fourth-edition
+
+## Below the metadata block, you can write some content such as a review or anything else you want. It'll be displayed in the album page.
+---

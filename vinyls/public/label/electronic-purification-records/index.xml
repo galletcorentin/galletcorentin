@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronic Purification Records on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/electronic-purification-records/</link>
+    <description>Recent content in Electronic Purification Records on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 22:51:37 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/label/electronic-purification-records/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metropolis</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/metropolis/</link>
+      <pubDate>Sun, 31 Mar 2024 22:51:37 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/metropolis/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

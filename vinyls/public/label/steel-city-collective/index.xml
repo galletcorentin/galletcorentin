@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steel City Collective on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/steel-city-collective/</link>
+    <description>Recent content in Steel City Collective on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 17:09:07 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/label/steel-city-collective/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retrochrome II</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/retrochrome2/</link>
+      <pubDate>Fri, 19 Apr 2024 17:09:07 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/retrochrome2/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

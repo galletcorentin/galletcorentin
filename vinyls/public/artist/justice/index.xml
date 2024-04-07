@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justice on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/justice/</link>
+    <description>Recent content in Justice on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 15:07:41 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/justice/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Justice</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/justice/</link>
+      <pubDate>Sun, 07 Apr 2024 15:07:41 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/justice/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

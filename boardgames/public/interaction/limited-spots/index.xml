@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Limited Spots on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/limited-spots/</link>
+    <description>Recent content in Limited Spots on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2024 10:08:56 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/limited-spots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serenissima</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/serenissima/</link>
+      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/serenissima/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dark Domains</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/dark_domains/</link>
+      <pubDate>Sun, 14 Apr 2024 22:22:15 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/dark_domains/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Canopy Evergreen</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/canopy_evergreen/</link>
+      <pubDate>Sun, 14 Apr 2024 22:21:12 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/canopy_evergreen/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

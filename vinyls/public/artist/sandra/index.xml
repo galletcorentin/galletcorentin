@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandra on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/sandra/</link>
+    <description>Recent content in Sandra on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 15:51:16 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/sandra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maria Magdalena</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/maria_magdalena/</link>
+      <pubDate>Sun, 07 Apr 2024 15:51:16 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/maria_magdalena/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metallica on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/metallica/</link>
+    <description>Recent content in Metallica on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 15:43:25 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/metallica/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>...And justice for all</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/and_justice_for_all/</link>
+      <pubDate>Sun, 07 Apr 2024 15:43:25 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/and_justice_for_all/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

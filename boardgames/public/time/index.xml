@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Time on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/</link>
+    <description>Recent content in Time on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2024 10:19:48 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One Hour</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/one-hour/</link>
+      <pubDate>Sat, 11 May 2024 10:19:48 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/one-hour/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>2-3 Hours</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/2-3-hours/</link>
+      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/2-3-hours/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Campaign</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/campaign/</link>
+      <pubDate>Fri, 19 Apr 2024 16:11:53 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/campaign/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fast</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/fast/</link>
+      <pubDate>Sun, 14 Apr 2024 22:25:56 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/fast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Half a Day</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/half-a-day/</link>
+      <pubDate>Sun, 14 Apr 2024 22:23:39 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/half-a-day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Whole Day</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/whole-day/</link>
+      <pubDate>Sun, 14 Apr 2024 21:56:50 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/whole-day/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BMG Records on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/bmg-records/</link>
+    <description>Recent content in BMG Records on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 16:10:23 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/label/bmg-records/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sweet dreams (are made of this)</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/sweet_dreams/</link>
+      <pubDate>Sun, 07 Apr 2024 16:10:23 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/sweet_dreams/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Madman&#39;s Return</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/the_madman_s_return/</link>
+      <pubDate>Sun, 07 Apr 2024 15:45:33 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/the_madman_s_return/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Don Davis on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/don-davis/</link>
+    <description>Recent content in Don Davis on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Apr 2024 16:31:28 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/don-davis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Matrix</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/the_matrix/</link>
+      <pubDate>Sun, 07 Apr 2024 16:31:28 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/the_matrix/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

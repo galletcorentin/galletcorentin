@@ -1,0 +1,12 @@
+baseurl = 'https://galletcorentin.github.io/galletcorentin/vinyls/public/'
+languageCode = 'en-us'
+title = 'CG Records Collection'
+author = 'CG'
+theme = 'vinyl-records-collection-theme'
+
+[taxonomies]
+  artist = 'artist'
+  genres = 'genres'
+  label = 'label'
+  year = 'year'
+  format = 'format'

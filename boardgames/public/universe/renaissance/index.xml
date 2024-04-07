@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Renaissance on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/renaissance/</link>
+    <description>Recent content in Renaissance on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 May 2024 10:08:56 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/renaissance/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serenissima</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/serenissima/</link>
+      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/serenissima/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Amber</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/amber/</link>
+      <pubDate>Fri, 19 Apr 2024 16:11:53 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/amber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Warhammer Battle (V6-V8)</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/warhammer_battle/</link>
+      <pubDate>Sun, 14 Apr 2024 22:26:07 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/warhammer_battle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Citadelles</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/citadelles/</link>
+      <pubDate>Sun, 14 Apr 2024 22:21:38 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/citadelles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Celestia</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/celestia/</link>
+      <pubDate>Sun, 14 Apr 2024 22:21:31 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/celestia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>7 Wonders</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/7_wonders/</link>
+      <pubDate>Sun, 14 Apr 2024 22:20:46 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/7_wonders/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

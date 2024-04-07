@@ -1,0 +1,16 @@
+baseurl = 'https://galletcorentin.github.io/galletcorentin/boardgames/public/'
+languageCode = 'en-us'
+title = 'CG Boardgames Collection'
+author = 'CG'
+theme = 'boardgames-collection-theme'
+
+[taxonomies]
+  players = 'players'
+  time = 'time'
+  publisher = 'publisher'
+  interaction = 'interaction'
+  universe = 'universe'
+  category = 'category'
+  lang = 'lang'
+  location = 'location'
+  year = 'year'

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edge on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/edge/</link>
+    <description>Recent content in Edge on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 16:07:11 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/edge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rex</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/rex/</link>
+      <pubDate>Fri, 19 Apr 2024 16:07:11 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/rex/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>X-Wing (TMG)</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/x-wing_tmg/</link>
+      <pubDate>Sun, 14 Apr 2024 22:26:35 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/x-wing_tmg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twilight Imperium V4</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/twilight_imperium/</link>
+      <pubDate>Sun, 14 Apr 2024 21:56:50 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/twilight_imperium/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

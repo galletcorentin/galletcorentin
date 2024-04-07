@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 Players on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/8-players/</link>
+    <description>Recent content in 8 Players on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 16:11:53 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/players/8-players/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amber</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/amber/</link>
+      <pubDate>Fri, 19 Apr 2024 16:11:53 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/amber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Saboteur</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/saboteur/</link>
+      <pubDate>Sun, 14 Apr 2024 22:24:47 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/saboteur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Citadelles</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/citadelles/</link>
+      <pubDate>Sun, 14 Apr 2024 22:21:38 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/citadelles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Celestia</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/celestia/</link>
+      <pubDate>Sun, 14 Apr 2024 22:21:31 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/celestia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>French cards</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/french_cards/</link>
+      <pubDate>Sun, 14 Apr 2024 22:21:25 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/french_cards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Twilight Imperium V4</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/twilight_imperium/</link>
+      <pubDate>Sun, 14 Apr 2024 21:56:50 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/twilight_imperium/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
