@@ -1,13 +1,13 @@
 ---
 # Mandatory parts :
-title: "Skinny Minnies"
+title: "Skinny Minis"
 date: 2024-04-14T22:27:38+02:00
 draft: false
 
 # Optional parts that you still should fill in order to sort your collection
 
 ## Publisher
-publisher: Unknown
+publisher: Dungeon in a box
 
 ## Categories
 category:

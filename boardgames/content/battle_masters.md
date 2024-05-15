@@ -1,13 +1,13 @@
 ---
 # Mandatory parts :
-title: "Battle Masters"
+title: "Battle Masters / Seigneurs de guerre"
 date: 2024-04-14T22:20:58+02:00
 draft: false
 
 # Optional parts that you still should fill in order to sort your collection
 
 ## Publisher
-publisher: Unknown
+publisher: MB
 
 ## Categories
 category:
@@ -78,7 +78,7 @@ universe:
 #   - this-album/pict.jpg
 
 ## The publish year
-# year: 1990
+year: 1992
 
 ## What is its condition, new ? used ? bad ?
 #condition: new

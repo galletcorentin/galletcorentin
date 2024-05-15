@@ -7,7 +7,7 @@ draft: false
 # Optional parts that you still should fill in order to sort your collection
 
 ## Publisher
-publisher: Unknown
+publisher: Repos
 
 ## Categories
 category:

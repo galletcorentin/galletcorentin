@@ -7,7 +7,7 @@ draft: false
 # Optional parts that you still should fill in order to sort your collection
 
 ## Publisher
-publisher: Unknown
+publisher: Asmodee
 
 ## Categories
 category:
@@ -81,7 +81,7 @@ universe:
 #   - this-album/pict.jpg
 
 ## The publish year
-# year: 1990
+year: 2007
 
 ## What is its condition, new ? used ? bad ?
 #condition: new

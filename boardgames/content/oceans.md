@@ -7,7 +7,7 @@ draft: false
 # Optional parts that you still should fill in order to sort your collection
 
 ## Publisher
-publisher: Unknown
+publisher: NorthStar Game Studio
 
 ## Categories
 category:
@@ -79,7 +79,7 @@ universe:
 #   - this-album/pict.jpg
 
 ## The publish year
-# year: 1990
+year: 2020
 
 ## What is its condition, new ? used ? bad ?
 #condition: new

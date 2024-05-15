@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dungeon in a Box on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/dungeon-in-a-box/</link>
+    <description>Recent content in Dungeon in a Box on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2024 22:27:38 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/dungeon-in-a-box/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skinny Minis</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/skinny_minnies/</link>
+      <pubDate>Sun, 14 Apr 2024 22:27:38 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/skinny_minnies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dungeon in a box</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/dungeon_in_a_box/</link>
+      <pubDate>Sun, 14 Apr 2024 22:27:29 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/dungeon_in_a_box/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

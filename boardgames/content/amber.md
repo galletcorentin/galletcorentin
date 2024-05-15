@@ -7,7 +7,7 @@ draft: false
 # Optional parts that you still should fill in order to sort your collection
 
 ## Publisher
-publisher: Unknown
+publisher: Phage Press
 
 ## Categories
 category:
@@ -83,7 +83,7 @@ pictures:
   - amber_2.jpg
 
 ## The publish year
-# year: 1990
+year: 1991
 
 ## What is its condition, new ? used ? bad ?
 condition: bad

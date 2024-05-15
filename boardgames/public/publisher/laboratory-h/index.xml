@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laboratory H on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/laboratory-h/</link>
+    <description>Recent content in Laboratory H on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2024 22:22:15 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/laboratory-h/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dark Domains</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/dark_domains/</link>
+      <pubDate>Sun, 14 Apr 2024 22:22:15 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/dark_domains/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
