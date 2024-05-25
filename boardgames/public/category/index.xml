@@ -6,20 +6,27 @@
     <description>Recent content in Category on CG Boardgames Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 11 May 2024 10:19:48 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 15:20:56 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/category/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cards</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/cards/</link>
-      <pubDate>Sat, 11 May 2024 10:19:48 +0200</pubDate>
+      <pubDate>Sat, 25 May 2024 15:20:56 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/cards/</guid>
       <description></description>
     </item>
     <item>
       <title>Dice</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/dice/</link>
-      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
+      <pubDate>Sat, 25 May 2024 15:20:56 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/dice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miniatures</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/miniatures/</link>
+      <pubDate>Sat, 25 May 2024 15:20:56 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/miniatures/</guid>
       <description></description>
     </item>
     <item>
@@ -48,13 +55,6 @@
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/rpg/</link>
       <pubDate>Fri, 19 Apr 2024 16:11:53 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/rpg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Miniatures</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/miniatures/</link>
-      <pubDate>Sun, 14 Apr 2024 22:27:38 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/miniatures/</guid>
       <description></description>
     </item>
     <item>
