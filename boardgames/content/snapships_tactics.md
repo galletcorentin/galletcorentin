@@ -57,8 +57,8 @@ extensions:
   - Trident
   - Sawfly
   - 2 stand sets
-  - Total : 8 playable ships
-  - Total : 15 ships
+  - Total of 8 playable ships
+  - Total of 15 ships
 
 # Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign
 time: one hour
