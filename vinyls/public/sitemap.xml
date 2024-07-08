@@ -2,31 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/year/2021/</loc>
-    <lastmod>2024-05-04T10:24:38+02:00</lastmod>
-  </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/33rpm-/-12/</loc>
-    <lastmod>2024-05-04T10:24:38+02:00</lastmod>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/</loc>
-    <lastmod>2024-05-04T10:24:38+02:00</lastmod>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/</loc>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/</loc>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/genres/</loc>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/</loc>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/genres/metal/</loc>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/theatre-of-tragedy/</loc>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/unknown/</loc>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/velvet_darkness/</loc>
+    <lastmod>2024-07-08T12:19:49+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/year/2021/</loc>
     <lastmod>2024-05-04T10:24:38+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/dreampunk-record-club/</loc>
     <lastmod>2024-05-04T10:24:38+02:00</lastmod>
   </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/</loc>
-    <lastmod>2024-05-04T10:24:38+02:00</lastmod>
-  </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/genres/</loc>
-    <lastmod>2024-05-04T10:24:38+02:00</lastmod>
-  </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/integrated/</loc>
-    <lastmod>2024-05-04T10:24:38+02:00</lastmod>
-  </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/</loc>
     <lastmod>2024-05-04T10:24:38+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/mix/various/</loc>
@@ -90,9 +102,6 @@
     <lastmod>2024-05-04T10:19:18+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/heatwave/</loc>
-    <lastmod>2024-05-04T10:19:18+02:00</lastmod>
-  </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/label/unknown/</loc>
     <lastmod>2024-05-04T10:19:18+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/year/2017/</loc>
@@ -357,9 +366,6 @@
     <lastmod>2024-04-07T15:45:33+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/and_justice_for_all/</loc>
-    <lastmod>2024-04-07T15:43:25+02:00</lastmod>
-  </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/genres/metal/</loc>
     <lastmod>2024-04-07T15:43:25+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/vinyls/public/artist/metallica/</loc>
