@@ -6,20 +6,27 @@
     <description>Recent content in Format on CG Records Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Jul 2024 12:19:49 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 18:38:40 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/format/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>45rpm / 12&#34;</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/45rpm-/-12/</link>
+      <pubDate>Sat, 31 May 2025 18:38:40 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/45rpm-/-12/</guid>
+      <description></description>
+    </item>
     <item>
       <title>33rpm / 12&#34;</title>
       <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/33rpm-/-12/</link>
-      <pubDate>Mon, 08 Jul 2024 12:19:49 +0200</pubDate>
+      <pubDate>Sat, 31 May 2025 18:23:19 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/33rpm-/-12/</guid>
       <description></description>
     </item>
     <item>
-      <title>45rpm / 12&#34;</title>
-      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/45rpm-/-12/</link>
-      <pubDate>Sat, 04 May 2024 10:23:15 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/45rpm-/-12/</guid>
+      <title>33rpm and 45rpm / 12&#34;</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/33rpm-and-45rpm-/-12/</link>
+      <pubDate>Sat, 31 May 2025 18:11:22 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/33rpm-and-45rpm-/-12/</guid>
       <description></description>
     </item>
     <item>
@@ -27,13 +34,6 @@
       <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/45rpm-/-7/</link>
       <pubDate>Thu, 11 Apr 2024 16:50:11 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/45rpm-/-7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>33rpm and 45rpm / 12&#34;</title>
-      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/33rpm-and-45rpm-/-12/</link>
-      <pubDate>Sun, 07 Apr 2024 16:14:09 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/format/33rpm-and-45rpm-/-12/</guid>
       <description></description>
     </item>
   </channel>
