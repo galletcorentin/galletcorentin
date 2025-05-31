@@ -40,10 +40,12 @@ pictures:
   - blood_machines_b.jpg
 
 ## The publish year
-# year: 1990
+year: 2021
 
 ## What is its condition, new ? used ? bad ?
-# condition: 
+condition: new
+
+censored: yes
 
 ## Below the metadata block, you can write some content such as a review or anything else you want. It'll be displayed in the album page.
 ---

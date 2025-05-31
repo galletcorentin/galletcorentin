@@ -6,7 +6,7 @@ license = "MIT"
 licenselink = "https://github.com/Wivik/vinyl-records-collection-theme/blob/main/LICENSE"
 description = "A Theme to display your vinyl records collection, with categories and images."
 homepage = "https://github.com/Wivik/vinyl-records-collection-theme"
-tags = ["collection", "records", "vinyl", "music"]
+tags = ["collection", "records", "vinyl", "music","censored"]
 features = []
 min_version = "0.116.1"
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>True on CG Records Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/censored/true/</link>
+    <description>Recent content in True on CG Records Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2024 12:19:49 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/vinyls/public/censored/true/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Velvet Darkness They Fear</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/velvet_darkness/</link>
+      <pubDate>Mon, 08 Jul 2024 12:19:49 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/velvet_darkness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hawaiian Paradise</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/hawaiian_paradise/</link>
+      <pubDate>Sat, 04 May 2024 10:22:06 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/hawaiian_paradise/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blood Machines</title>
+      <link>https://galletcorentin.github.io/galletcorentin/vinyls/public/blood_machines/</link>
+      <pubDate>Sun, 31 Mar 2024 22:45:44 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/vinyls/public/blood_machines/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
