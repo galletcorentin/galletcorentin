@@ -84,7 +84,7 @@ year: 2020
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 232414/oceans
 

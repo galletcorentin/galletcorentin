@@ -80,7 +80,10 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+extensions:
+  - Power pack II
+
+location: Vénissieux
 
 bgg: 40692/small-world
 

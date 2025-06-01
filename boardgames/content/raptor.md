@@ -81,7 +81,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 177639/raptor
 

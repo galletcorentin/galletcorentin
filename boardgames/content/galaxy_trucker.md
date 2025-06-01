@@ -18,6 +18,7 @@ category:
 #  - Evolution-like
   - Meeples
 #  - Miniatures
+  - Moveable tiles
   - Real time
 #  - RPG
   - Tabletop
@@ -59,7 +60,8 @@ interaction:
 #  - Co-operative
 #  - Diplomacy
   - Elimination
-#  - Limited spots
+  - Limited spots
+  - Market river
 #  - Secret identities
 
 universe:
@@ -71,7 +73,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -86,7 +88,7 @@ year: 2007
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 31481/galaxy-trucker
 

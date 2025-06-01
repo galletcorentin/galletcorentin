@@ -12,12 +12,14 @@ publisher: Unknown
 ## Categories
 category:
 #  - Cards
+#  - Deck building
 #  - Dice
 #  - Draft
 #  - Engine building
 #  - Evolution-like
 #  - Meeples
 #  - Miniatures
+#  - Moveable tiles
 #  - Real time
 #  - RPG
 #  - Tabletop
@@ -60,6 +62,7 @@ interaction:
 #  - Diplomacy
 #  - Elimination
 #  - Limited spots
+#  - Market river
 #  - Secret identities
 #  - Solo only
 
@@ -75,8 +78,9 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-#  - Scfi-fi
+#  - Sci-fi
 #  - Space
+#  - Vampires
 
 ## Any supplementary pictures you want to display.
 ## These pictures should be in the site asset folder : <your hugo site>/static
@@ -85,7 +89,7 @@ universe:
 #  - {{ .Name }}_example.jpg
 
 ## The publish year
-# year: 1990
+#year: 1990
 
 ##FR / EN / FR+EN
 lang: FR

@@ -18,6 +18,7 @@ category:
 #  - Evolution-like
 #  - Meeples
 #  - Miniatures
+  - Moveable tiles
 #  - RPG
   - Tabletop
 
@@ -65,7 +66,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -80,7 +81,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 350689/wormholes
 

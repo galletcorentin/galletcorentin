@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wizards of the Coast on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/wizards-of-the-coast/</link>
+    <description>Recent content in Wizards of the Coast on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 15:08:03 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/wizards-of-the-coast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dungeons and Dragons</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/dungeons_and_dragons/</link>
+      <pubDate>Sun, 01 Jun 2025 15:08:03 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/dungeons_and_dragons/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

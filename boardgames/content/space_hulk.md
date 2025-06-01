@@ -18,6 +18,7 @@ category:
 #  - Evolution-like
 #  - Meeples
   - Miniatures
+  - Moveable tiles
   - Real time
 #  - RPG
   - Tabletop
@@ -69,7 +70,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -84,7 +85,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 54625/space-hulk-third-edition
 

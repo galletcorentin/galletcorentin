@@ -8,7 +8,7 @@
     {{ range sort .Pages "Title" }}
 
     {{ $default_img := resources.Get "img/default.png" }}
-    <section class="{{ if eq .Params.location "Home" }}game-card{{ else }}game-card-absent{{ end }}" style="background-image: url('{{ if .Params.cover }}{{ .Site.BaseURL }}{{ .Params.cover }}{{ else }}{{ $default_img.Permalink }}{{ end }}')">
+    <section class="{{ if eq .Params.location "Vénissieux" }}game-card{{ else }}game-card-absent{{ end }}" style="background-image: url('{{ if .Params.cover }}{{ .Site.BaseURL }}{{ .Params.cover }}{{ else }}{{ $default_img.Permalink }}{{ end }}')">
             {{ if .Params.publisher }}
             <a href="{{ .Site.BaseURL }}publisher/{{ .Params.publisher | urlize }}" class="game-publisher">{{ .Params.publisher }}</a>
             {{ end }}

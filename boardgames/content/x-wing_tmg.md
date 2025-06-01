@@ -75,7 +75,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -90,7 +90,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 condition: used
 
-location: Home
+location: Vénissieux
 
 bgg: 103885/star-wars-x-wing-miniatures-game
 

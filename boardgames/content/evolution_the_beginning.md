@@ -81,7 +81,7 @@ year: 2016
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 201248/evolution-the-beginning
 

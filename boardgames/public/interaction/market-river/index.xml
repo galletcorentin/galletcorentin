@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Market River on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/market-river/</link>
+    <description>Recent content in Market River on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 14:47:32 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/market-river/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flotilla</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/flotilla/</link>
+      <pubDate>Sun, 01 Jun 2025 14:47:32 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/flotilla/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hero Realms</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/hero_realms/</link>
+      <pubDate>Sun, 01 Jun 2025 14:40:30 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/hero_realms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dinosaur World</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/dinosaur_world/</link>
+      <pubDate>Sun, 01 Jun 2025 14:27:53 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/dinosaur_world/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Galaxy Trucker</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/galaxy_trucker/</link>
+      <pubDate>Sun, 14 Apr 2024 22:23:23 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/galaxy_trucker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solar Titans</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/solar_titans/</link>
+      <pubDate>Sun, 14 Apr 2024 21:58:01 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/solar_titans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eclipse (2nd Dawn)</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/eclipse/</link>
+      <pubDate>Sun, 14 Apr 2024 21:54:48 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/eclipse/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

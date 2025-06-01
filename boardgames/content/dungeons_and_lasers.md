@@ -18,6 +18,7 @@ category:
 #  - Evolution-like
 #  - Meeples
   - Miniatures
+  - Moveable tiles
   - RPG
 #  - Tabletop
 
@@ -68,6 +69,14 @@ universe:
 #  - Scfi-fi
 #  - Space
 
+extensions:
+  - Abandonned mines
+  - Hall of ancestors
+  - Dwarven mine
+  - Fantasy Dungeon
+  - Chambers of torment
+  - Missing : Fantasy dungeon x1, Hall of ancestor x1, Sewer x2, city street x1, cavern x1, web lair x1, ritual site x1
+
 ## Any supplementary pictures you want to display.
 ## These pictures should be in the site asset folder : <your hugo site>/static
 ## If you put them into a sub-folder, don't forget it in the path !
@@ -78,9 +87,9 @@ universe:
 # year: 1990
 
 ## What is its condition, new ? used ? bad ?
-#condition: new
+condition: new
 
-location: pre-command
+location: Vénissieux
 
 ## Below the metadata block, you can write some content such as a review or anything else you want. It'll be displayed in the album page.
 ---

@@ -17,6 +17,7 @@ category:
 #  - Evolution-like
 #  - Meeples
 #  - Miniatures
+  - Moveable tiles
 #  - RPG
   - Tabletop
 
@@ -77,7 +78,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -92,7 +93,7 @@ pictures:
 ## What is its condition, new ? used ? bad ?
 condition: used
 
-location: Home
+location: Vénissieux
 
 bgg: 233078/twilight-imperium-fourth-edition
 

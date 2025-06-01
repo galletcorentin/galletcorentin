@@ -89,7 +89,7 @@ lang: FR
 condition: used
 
 # Location : Vénissieux, Montigny, shipping, pre-command
-location: far away
+location: Montigny
 
 ## Below the metadata block, you can write some content such as a review or anything else you want. It'll be displayed in the album page.
 ---

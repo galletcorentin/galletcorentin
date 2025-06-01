@@ -1,6 +1,6 @@
 ---
 # Mandatory parts :
-title: "Obsidian Protocol"
+title: "Embers : Obsidian Protocol"
 date: 2024-04-14T22:24:20+02:00
 draft: false
 
@@ -66,7 +66,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -81,7 +81,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: pre-command
+location: Vénissieux
 
 bgg: 244054/ember-obsidian-protocol
 

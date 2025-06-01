@@ -54,6 +54,7 @@ interaction:
 #  - Diplomacy
   - Elimination
 #  - Limited spots
+  - Market river
 #  - Secret identities
 
 universe:
@@ -65,7 +66,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sfi-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -77,10 +78,15 @@ pictures:
 ## The publish year
 # year: 1990
 
+extensions:
+  - Base game V1
+  - Engine meeples
+  - Soon : update V2 and two full boxes
+
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 380784/solar-titans
 

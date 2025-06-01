@@ -97,7 +97,7 @@ lang: FR
 condition: used
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: Home
+location: Vénissieux
 
 ## BGG link, like : 68448/7-wonders
 bgg: 8392/lycee-trading-card-game

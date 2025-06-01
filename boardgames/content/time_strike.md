@@ -18,6 +18,7 @@ category:
 #  - Evolution-like
 #  - Meeples
   - Miniatures
+  - Moveable tiles
   - RPG
   - Tabletop
 

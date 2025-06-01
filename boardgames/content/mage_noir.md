@@ -82,10 +82,18 @@ universe:
 ## The publish year
 # year: 1990
 
+extensions:
+  - Sand
+  - Flowers
+  - Sun
+  - time
+  - Space
+  - Ice
+
 ## What is its condition, new ? used ? bad ?
 condition: used
 
-location: Home
+location: Vénissieux
 
 lang: FR
 

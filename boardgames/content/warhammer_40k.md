@@ -68,7 +68,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
 #  - Space
 
 ## Any supplementary pictures you want to display.
@@ -83,7 +83,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 condition: used
 
-location: Home
+location: Vénissieux
 
 bgg: 2162/warhammer-40000-third-edition
 

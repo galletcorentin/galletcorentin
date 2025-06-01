@@ -65,7 +65,7 @@ universe:
 #  - No theme
 #  - Renaissance
   - Modern Times
-  - Scfi-fi
+  - Sci-fi
 #  - Space
 
 ## Any supplementary pictures you want to display.
@@ -80,7 +80,7 @@ year: 2017
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 184824/gaslands-post-apocalyptic-vehicular-combat
 

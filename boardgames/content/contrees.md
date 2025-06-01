@@ -18,6 +18,7 @@ category:
 #  - Evolution-like
   - Meeples
 #  - Miniatures
+  - Moveable tiles
 #  - RPG
 #  - Tabletop
 
@@ -80,7 +81,7 @@ year: 2014
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: far away
+location: Montigny
 
 bgg: 159587/contrees
 

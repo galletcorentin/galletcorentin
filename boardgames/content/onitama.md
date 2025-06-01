@@ -80,7 +80,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 160477/onitama
 

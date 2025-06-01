@@ -18,6 +18,7 @@ category:
 #  - Evolution-like
 #  - Meeples
   - Miniatures
+  - Moveable tiles
 #  - Real time
 #  - RPG
 #  - Tabletop
@@ -34,7 +35,7 @@ cover: snapships_tactics.png
 #  This is a great album.
 
 players:
-#  - 1 player
+  - 1 player
   - 2 players
   - 3 players
   - 4 players
@@ -49,16 +50,17 @@ extensions:
   - Additional core set (with Kickstarter rewards)
   - Base Saber
   - Base Scarab
-  - Falx (with cards)
-  - Wasp (with cards)
+  - Falx (with cards) V1 and V2
+  - Wasp (with cards) V1 and V2
   - 2x Lance (only one set of cards)
   - 2x Locust (only one set of cards)
   - Hammer
   - Trident
   - Sawfly
-  - 2 stand sets
+  - Drones
+  - 4 stand sets
   - Total of 8 playable ships
-  - Total of 15 ships
+  - Total of 19 ships
 
 # Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign
 time: one hour
@@ -87,7 +89,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -106,7 +108,7 @@ lang: EN
 condition: used
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: shipping
+location: Vénissieux
 
 ## BGG link, like : 68448/7-wonders
 bgg: 363841/snap-ships-tactics

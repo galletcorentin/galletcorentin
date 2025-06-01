@@ -18,6 +18,7 @@ category:
 #  - Evolution-like
   - Meeples
 #  - Miniatures
+  - Moveable tiles
 #  - RPG
   - Tabletop
 
@@ -83,7 +84,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 2653/survive-escape-from-atlantis
 

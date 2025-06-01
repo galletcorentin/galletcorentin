@@ -94,7 +94,7 @@ lang: FR
 condition: used
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: far away
+location: Montigny
 
 ## BGG link, like : 68448/7-wonders
 bgg: 135281/serenissima-second-edition/credits

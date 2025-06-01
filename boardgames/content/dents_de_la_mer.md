@@ -80,7 +80,7 @@ year: 2019
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 272738/jaws
 

@@ -7,7 +7,7 @@ draft: false
 # Optional parts that you still should fill in order to sort your collection
 
 ## Publisher
-publisher: Unknown
+publisher: Open Owl Studios
 
 ## Categories
 category:
@@ -18,12 +18,17 @@ category:
 #  - Evolution-like
 #  - Meeples
   - Miniatures
+  - Moveable tiles
   - RPG
   - Tabletop
 
 extensions:
   - Miniatures
-  - 1.5 content (pre-command, Q4 2024)
+  - 1.5 patch
+  - Drones
+  - Terrain miniatures
+  - Battle book
+  - Mat
 
 ## Cover image : will be displayed in the album list and top page.
 ## Display a default one unless you change this value.
@@ -69,7 +74,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -79,12 +84,12 @@ universe:
 #   - this-album/pict.jpg
 
 ## The publish year
-# year: 1990
+year: 2022
 
 ## What is its condition, new ? used ? bad ?
-#condition: new
+condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 273910/stars-of-akarios
 

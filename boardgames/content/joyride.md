@@ -9,6 +9,10 @@ draft: false
 ## Publisher
 publisher: Rebellion Unplugged
 
+extension:
+  - Base game (2 players)
+  - Arena (4 players)
+
 ## Categories
 category:
 #  - Cards
@@ -18,6 +22,7 @@ category:
 #  - Evolution-like
   - Meeples
 #  - Miniatures
+  - Moveable tiles
 #  - RPG
   - Tabletop
 
@@ -80,7 +85,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: pre-command
+location: Vénissieux
 
 bgg: 371183/joyride-survival-of-the-fastest
 

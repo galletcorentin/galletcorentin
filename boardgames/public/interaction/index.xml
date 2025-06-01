@@ -6,8 +6,71 @@
     <description>Recent content in Interaction on CG Boardgames Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 15:20:56 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 16:01:59 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alliance</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/alliance/</link>
+      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/alliance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diplomacy</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/diplomacy/</link>
+      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/diplomacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Commerce</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/commerce/</link>
+      <pubDate>Sun, 01 Jun 2025 15:59:30 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elimination</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/elimination/</link>
+      <pubDate>Sun, 01 Jun 2025 15:59:30 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/elimination/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Limited Spots</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/limited-spots/</link>
+      <pubDate>Sun, 01 Jun 2025 15:59:30 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/limited-spots/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Co-Operative</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/co-operative/</link>
+      <pubDate>Sun, 01 Jun 2025 15:56:43 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/co-operative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Solo Only</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/solo-only/</link>
+      <pubDate>Sun, 01 Jun 2025 15:53:54 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/solo-only/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Casual</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/casual/</link>
+      <pubDate>Sun, 01 Jun 2025 15:41:40 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/casual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market River</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/market-river/</link>
+      <pubDate>Sun, 01 Jun 2025 14:47:32 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/market-river/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Competitive</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/competitive/</link>
@@ -16,66 +79,10 @@
       <description></description>
     </item>
     <item>
-      <title>Elimination</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/elimination/</link>
-      <pubDate>Sat, 25 May 2024 15:20:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/elimination/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Co-Operative</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/co-operative/</link>
-      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/co-operative/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Commerce</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/commerce/</link>
-      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/commerce/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Diplomacy</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/diplomacy/</link>
-      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/diplomacy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Limited Spots</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/limited-spots/</link>
-      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/limited-spots/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Alliance</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/alliance/</link>
-      <pubDate>Mon, 22 Apr 2024 12:56:16 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/alliance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Casual</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/casual/</link>
-      <pubDate>Mon, 22 Apr 2024 12:56:16 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/casual/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Secret Identities</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/secret-identities/</link>
       <pubDate>Fri, 19 Apr 2024 16:11:53 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/secret-identities/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Solo Only</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/solo-only/</link>
-      <pubDate>Fri, 19 Apr 2024 15:53:37 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/solo-only/</guid>
       <description></description>
     </item>
   </channel>

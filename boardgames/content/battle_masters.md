@@ -18,6 +18,7 @@ category:
 #  - Evolution-like
 #  - Meeples
   - Miniatures
+  - Moveable tiles
 #  - RPG
   - Tabletop
 
@@ -83,7 +84,7 @@ year: 1992
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 700/battle-masters
 

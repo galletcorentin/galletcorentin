@@ -81,7 +81,7 @@ year: 2021
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 295607/canopy
 

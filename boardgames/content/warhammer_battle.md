@@ -83,7 +83,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 condition: used
 
-location: Home
+location: Vénissieux
 
 bgg: 130552/warhammer-the-game-of-fantasy-battles-8th-edition
 

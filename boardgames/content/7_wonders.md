@@ -81,7 +81,7 @@ year: 2010
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Home
+location: Vénissieux
 
 bgg: 68448/7-wonders
 

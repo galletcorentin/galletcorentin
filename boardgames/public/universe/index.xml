@@ -6,27 +6,90 @@
     <description>Recent content in Universe on CG Boardgames Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 15:20:56 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 16:01:59 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Scfi-Fi</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/scfi-fi/</link>
-      <pubDate>Sat, 25 May 2024 15:20:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/scfi-fi/</guid>
+      <title>Gothic</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/gothic/</link>
+      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/gothic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Middle Ages</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/middle-ages/</link>
+      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/middle-ages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modern Times</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/modern-times/</link>
+      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/modern-times/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Renaissance</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/renaissance/</link>
+      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/renaissance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vampires</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/vampires/</link>
+      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/vampires/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sci-Fi</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/sci-fi/</link>
+      <pubDate>Sun, 01 Jun 2025 15:59:30 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/sci-fi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cyber</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/cyber/</link>
+      <pubDate>Sun, 01 Jun 2025 15:56:43 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/cyber/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nature</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/nature/</link>
+      <pubDate>Sun, 01 Jun 2025 15:53:54 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/nature/</guid>
       <description></description>
     </item>
     <item>
       <title>Space</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/space/</link>
-      <pubDate>Sat, 25 May 2024 15:20:56 +0200</pubDate>
+      <pubDate>Sun, 01 Jun 2025 15:50:24 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/space/</guid>
       <description></description>
     </item>
     <item>
       <title>Fantasy</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/fantasy/</link>
-      <pubDate>Sat, 11 May 2024 10:19:48 +0200</pubDate>
+      <pubDate>Sun, 01 Jun 2025 15:41:40 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/fantasy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>No Theme</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/no-theme/</link>
+      <pubDate>Sun, 01 Jun 2025 15:39:12 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/no-theme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dinosaurs</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/dinosaurs/</link>
+      <pubDate>Sun, 01 Jun 2025 14:27:53 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/dinosaurs/</guid>
       <description></description>
     </item>
     <item>
@@ -37,66 +100,17 @@
       <description></description>
     </item>
     <item>
-      <title>Middle Ages</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/middle-ages/</link>
-      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/middle-ages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Renaissance</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/renaissance/</link>
-      <pubDate>Sat, 11 May 2024 10:08:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/renaissance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Modern Times</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/modern-times/</link>
-      <pubDate>Mon, 22 Apr 2024 12:56:16 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/modern-times/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cyber</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/cyber/</link>
-      <pubDate>Fri, 19 Apr 2024 15:53:37 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/cyber/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gothic</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/gothic/</link>
-      <pubDate>Sun, 14 Apr 2024 22:27:55 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/gothic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>No Theme</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/no-theme/</link>
-      <pubDate>Sun, 14 Apr 2024 22:25:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/no-theme/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dinosaurs</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/dinosaurs/</link>
-      <pubDate>Sun, 14 Apr 2024 22:24:40 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/dinosaurs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nature</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/nature/</link>
-      <pubDate>Sun, 14 Apr 2024 22:24:40 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/nature/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Mecha</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/mecha/</link>
       <pubDate>Sun, 14 Apr 2024 22:24:20 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/mecha/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sfi-Fi</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/sfi-fi/</link>
+      <pubDate>Sun, 14 Apr 2024 21:58:01 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/sfi-fi/</guid>
       <description></description>
     </item>
   </channel>

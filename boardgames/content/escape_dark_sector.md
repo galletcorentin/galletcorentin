@@ -71,7 +71,7 @@ universe:
 #  - No theme
 #  - Renaissance
 #  - Modern Times
-  - Scfi-fi
+  - Sci-fi
   - Space
 
 ## Any supplementary pictures you want to display.
@@ -88,7 +88,7 @@ year: 2020
 
 lang: EN
 
-location: Home
+location: Vénissieux
 
 bgg: 280748/escape-the-dark-sector
 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022 on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/year/2022/</link>
+    <description>Recent content in 2022 on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2024 22:25:14 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/year/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Star of Akarios</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/star_of_akarios/</link>
+      <pubDate>Sun, 14 Apr 2024 22:25:14 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/star_of_akarios/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
