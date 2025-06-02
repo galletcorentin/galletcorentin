@@ -6,13 +6,34 @@
     <description>Recent content in Category on CG Boardgames Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 16:01:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 01:45:57 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/category/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cards</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/cards/</link>
-      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <pubDate>Tue, 03 Jun 2025 01:45:57 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/cards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deck Building</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/deck-building/</link>
+      <pubDate>Tue, 03 Jun 2025 01:34:16 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/deck-building/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Engine Building</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/engine-building/</link>
+      <pubDate>Tue, 03 Jun 2025 01:34:16 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/engine-building/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evolution-Like</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/evolution-like/</link>
+      <pubDate>Tue, 03 Jun 2025 01:34:16 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/evolution-like/</guid>
       <description></description>
     </item>
     <item>
@@ -51,20 +72,6 @@
       <description></description>
     </item>
     <item>
-      <title>Deck Building</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/deck-building/</link>
-      <pubDate>Sun, 01 Jun 2025 15:53:54 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/deck-building/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Engine Building</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/engine-building/</link>
-      <pubDate>Sun, 01 Jun 2025 15:50:24 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/engine-building/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Moveable Tiles</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/moveable-tiles/</link>
       <pubDate>Sun, 01 Jun 2025 15:50:24 +0200</pubDate>
@@ -76,13 +83,6 @@
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/real-time/</link>
       <pubDate>Sun, 01 Jun 2025 15:39:12 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/real-time/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Evolution-Like</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/evolution-like/</link>
-      <pubDate>Sun, 14 Apr 2024 22:24:26 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/evolution-like/</guid>
       <description></description>
     </item>
     <item>

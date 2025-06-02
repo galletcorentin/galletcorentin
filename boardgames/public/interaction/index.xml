@@ -6,8 +6,22 @@
     <description>Recent content in Interaction on CG Boardgames Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 16:01:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 01:45:57 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Casual</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/casual/</link>
+      <pubDate>Tue, 03 Jun 2025 01:45:57 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/casual/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elimination</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/elimination/</link>
+      <pubDate>Tue, 03 Jun 2025 01:34:16 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/elimination/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Alliance</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/alliance/</link>
@@ -30,13 +44,6 @@
       <description></description>
     </item>
     <item>
-      <title>Elimination</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/elimination/</link>
-      <pubDate>Sun, 01 Jun 2025 15:59:30 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/elimination/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Limited Spots</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/limited-spots/</link>
       <pubDate>Sun, 01 Jun 2025 15:59:30 +0200</pubDate>
@@ -55,13 +62,6 @@
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/solo-only/</link>
       <pubDate>Sun, 01 Jun 2025 15:53:54 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/solo-only/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Casual</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/casual/</link>
-      <pubDate>Sun, 01 Jun 2025 15:41:40 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/casual/</guid>
       <description></description>
     </item>
     <item>

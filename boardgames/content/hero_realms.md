@@ -46,7 +46,7 @@ players:
 #  - 9 players+
 
 ## Addons
-#extensions:
+extensions:
   - Cleric hero
 
 # Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign

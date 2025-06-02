@@ -6,8 +6,22 @@
     <description>Recent content in Time on CG Boardgames Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 16:01:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 01:45:57 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/time/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fast</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/fast/</link>
+      <pubDate>Tue, 03 Jun 2025 01:45:57 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/fast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>One Hour</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/one-hour/</link>
+      <pubDate>Tue, 03 Jun 2025 01:34:16 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/one-hour/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Campaign</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/campaign/</link>
@@ -27,20 +41,6 @@
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/whole-day/</link>
       <pubDate>Sun, 01 Jun 2025 15:50:24 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/whole-day/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>One Hour</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/one-hour/</link>
-      <pubDate>Sun, 01 Jun 2025 15:44:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/one-hour/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fast</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/fast/</link>
-      <pubDate>Sun, 01 Jun 2025 15:41:40 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/time/fast/</guid>
       <description></description>
     </item>
     <item>

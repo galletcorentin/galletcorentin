@@ -6,13 +6,20 @@
     <description>Recent content in Publisher on CG Boardgames Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jun 2025 16:01:59 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 01:45:57 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unknown</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/unknown/</link>
-      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <pubDate>Tue, 03 Jun 2025 01:45:57 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/unknown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NorthStar Game Studio</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/northstar-game-studio/</link>
+      <pubDate>Tue, 03 Jun 2025 01:34:16 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/northstar-game-studio/</guid>
       <description></description>
     </item>
     <item>
@@ -160,13 +167,6 @@
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/open-owl-studios/</link>
       <pubDate>Sun, 14 Apr 2024 22:25:14 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/open-owl-studios/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>NorthStar Game Studio</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/northstar-game-studio/</link>
-      <pubDate>Sun, 14 Apr 2024 22:24:26 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/northstar-game-studio/</guid>
       <description></description>
     </item>
     <item>
