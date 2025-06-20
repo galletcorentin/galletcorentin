@@ -22,7 +22,7 @@ category:
 #  - Moveable tiles
 #  - Real time
 #  - RPG
-#  - Tabletop
+  - Tabletop
 
 ## Cover image : will be displayed in the album list and top page.
 ## Display a default one unless you change this value.
@@ -97,7 +97,7 @@ lang: FR
 condition: new
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: pre-command
+location: Vénissieux
 
 ## BGG link, like : 68448/7-wonders
 bgg: 283355/dune

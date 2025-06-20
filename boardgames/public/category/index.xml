@@ -6,13 +6,41 @@
     <description>Recent content in Category on CG Boardgames Collection</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 01:45:57 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jun 2025 22:17:54 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/category/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cards</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/cards/</link>
-      <pubDate>Tue, 03 Jun 2025 01:45:57 +0200</pubDate>
+      <pubDate>Fri, 20 Jun 2025 22:17:54 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/cards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dice</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/dice/</link>
+      <pubDate>Fri, 20 Jun 2025 22:17:54 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/dice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meeples</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/meeples/</link>
+      <pubDate>Fri, 20 Jun 2025 22:17:54 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/meeples/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Moveable Tiles</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/moveable-tiles/</link>
+      <pubDate>Fri, 20 Jun 2025 22:17:54 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/moveable-tiles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tabletop</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/tabletop/</link>
+      <pubDate>Fri, 20 Jun 2025 22:17:54 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/tabletop/</guid>
       <description></description>
     </item>
     <item>
@@ -46,36 +74,8 @@
     <item>
       <title>RPG</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/rpg/</link>
-      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
+      <pubDate>Sun, 01 Jun 2025 15:56:43 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/rpg/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tabletop</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/tabletop/</link>
-      <pubDate>Sun, 01 Jun 2025 16:01:59 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/tabletop/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dice</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/dice/</link>
-      <pubDate>Sun, 01 Jun 2025 15:59:30 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/dice/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Meeples</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/meeples/</link>
-      <pubDate>Sun, 01 Jun 2025 15:59:30 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/meeples/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Moveable Tiles</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/moveable-tiles/</link>
-      <pubDate>Sun, 01 Jun 2025 15:50:24 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/moveable-tiles/</guid>
       <description></description>
     </item>
     <item>

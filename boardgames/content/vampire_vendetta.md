@@ -60,7 +60,7 @@ interaction:
 #  - Competitive
 #  - Co-operative
 #  - Diplomacy
-#  - Elimination
+  - Elimination
   - Limited spots
 #  - Market river
 #  - Secret identities
@@ -98,7 +98,7 @@ lang: FR
 condition: used
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: At work
+location: Vénissieux
 
 ## BGG link, like : 68448/7-wonders
 bgg: 245659/vampire-the-masquerade-vendetta

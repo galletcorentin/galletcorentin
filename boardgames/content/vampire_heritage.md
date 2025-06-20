@@ -21,7 +21,7 @@ category:
   - Miniatures
 #  - Moveable tiles
 #  - Real time
-  - RPG
+#  - RPG
   - Tabletop
 
 ## Cover image : will be displayed in the album list and top page.
@@ -36,12 +36,12 @@ cover: vampire_heritage.png
 #  This is a great album.
 
 players:
-  - 1 player
+#  - 1 player
   - 2 players
   - 3 players
   - 4 players
-  - 5 players
-  - 6 players
+#  - 5 players
+#  - 6 players
 #  - 7 players
 #  - 8 players
 #  - 9 players+
@@ -59,10 +59,10 @@ interaction:
 #  - Commerce
 #  - Competitive
 #  - Co-operative
-  - Diplomacy
+#  - Diplomacy
 #  - Elimination
 #  - Limited spots
-#  - Market river
+  - Market river
 #  - Secret identities
 #  - Solo only
 
@@ -98,7 +98,7 @@ lang: FR
 condition: new
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: pre-command
+location: Vénissieux
 
 ## BGG link, like : 68448/7-wonders
 bgg: 257674/vampire-the-masquerade-heritage
