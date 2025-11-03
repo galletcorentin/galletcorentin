@@ -83,7 +83,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: pre-command
+location: shipping
 
 bgg: 147020/star-realms
 

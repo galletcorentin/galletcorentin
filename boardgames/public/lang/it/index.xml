@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT on CG Boardgames Collection</title>
+    <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/lang/it/</link>
+    <description>Recent content in IT on CG Boardgames Collection</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Aug 2025 09:35:35 +0200</lastBuildDate>
+    <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/lang/it/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Twilight Inscription</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/twilight_inscription/</link>
+      <pubDate>Tue, 19 Aug 2025 09:35:35 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/twilight_inscription/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

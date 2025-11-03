@@ -20,18 +20,6 @@
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/4-players/</loc>
     <lastmod>2025-08-19T09:35:35+02:00</lastmod>
   </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/5-players/</loc>
-    <lastmod>2025-08-19T09:35:35+02:00</lastmod>
-  </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/6-players/</loc>
-    <lastmod>2025-08-19T09:35:35+02:00</lastmod>
-  </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/7-players/</loc>
-    <lastmod>2025-08-19T09:35:35+02:00</lastmod>
-  </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/8-players/</loc>
-    <lastmod>2025-08-19T09:35:35+02:00</lastmod>
-  </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/alliance/</loc>
     <lastmod>2025-08-19T09:35:35+02:00</lastmod>
   </url><url>
@@ -53,10 +41,10 @@
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/ffg/</loc>
     <lastmod>2025-08-19T09:35:35+02:00</lastmod>
   </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/lang/fr/</loc>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/</loc>
     <lastmod>2025-08-19T09:35:35+02:00</lastmod>
   </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/</loc>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/lang/it/</loc>
     <lastmod>2025-08-19T09:35:35+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/lang/</loc>
@@ -74,9 +62,6 @@
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/sci-fi/</loc>
     <lastmod>2025-08-19T09:35:35+02:00</lastmod>
   </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/shipping/</loc>
-    <lastmod>2025-08-19T09:35:35+02:00</lastmod>
-  </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/space/</loc>
     <lastmod>2025-08-19T09:35:35+02:00</lastmod>
   </url><url>
@@ -89,10 +74,25 @@
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/universe/</loc>
     <lastmod>2025-08-19T09:35:35+02:00</lastmod>
   </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/v%C3%A9nissieux/</loc>
+    <lastmod>2025-08-19T09:35:35+02:00</lastmod>
+  </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/year/</loc>
     <lastmod>2025-08-19T09:35:35+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/year/2025/</loc>
+    <lastmod>2025-06-29T18:14:16+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/5-players/</loc>
+    <lastmod>2025-06-29T18:14:16+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/6-players/</loc>
+    <lastmod>2025-06-29T18:14:16+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/7-players/</loc>
+    <lastmod>2025-06-29T18:14:16+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/8-players/</loc>
     <lastmod>2025-06-29T18:14:16+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/players/9-players&#43;/</loc>
@@ -125,6 +125,9 @@
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/rpg/</loc>
     <lastmod>2025-06-29T18:14:16+02:00</lastmod>
   </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/shipping/</loc>
+    <lastmod>2025-06-29T18:14:16+02:00</lastmod>
+  </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/year/2026/</loc>
     <lastmod>2025-06-21T21:02:19+02:00</lastmod>
   </url><url>
@@ -140,6 +143,9 @@
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/engine-building/</loc>
     <lastmod>2025-06-21T21:02:19+02:00</lastmod>
   </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/lang/fr/</loc>
+    <lastmod>2025-06-21T21:02:19+02:00</lastmod>
+  </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/interaction/limited-spots/</loc>
     <lastmod>2025-06-21T21:02:19+02:00</lastmod>
   </url><url>
@@ -147,9 +153,6 @@
     <lastmod>2025-06-21T21:02:19+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/meeples/</loc>
-    <lastmod>2025-06-21T21:02:19+02:00</lastmod>
-  </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/pre-command/</loc>
     <lastmod>2025-06-21T21:02:19+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/tabletop/</loc>
@@ -180,9 +183,6 @@
     <lastmod>2025-06-03T01:45:57+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/unknown/</loc>
-    <lastmod>2025-06-03T01:45:57+02:00</lastmod>
-  </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/v%C3%A9nissieux/</loc>
     <lastmod>2025-06-03T01:45:57+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/category/deck-building/</loc>
@@ -446,9 +446,6 @@
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/space_hulk/</loc>
     <lastmod>2024-04-14T22:25:04+02:00</lastmod>
   </url><url>
-    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/at-work/</loc>
-    <lastmod>2024-04-14T22:24:56+02:00</lastmod>
-  </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/small_world/</loc>
     <lastmod>2024-04-14T22:24:56+02:00</lastmod>
   </url><url>
@@ -483,6 +480,9 @@
     <lastmod>2024-04-14T22:23:53+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/publisher/rebellion-unplugged/</loc>
+    <lastmod>2024-04-14T22:23:53+02:00</lastmod>
+  </url><url>
+    <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/v%C3%A9nissieux-and-more-incoming/</loc>
     <lastmod>2024-04-14T22:23:53+02:00</lastmod>
   </url><url>
     <loc>https://galletcorentin.github.io/galletcorentin/boardgames/public/heroes_3/</loc>

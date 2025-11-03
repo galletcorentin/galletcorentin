@@ -36,6 +36,7 @@
   --bg-header-elements: #b4b4b438;
   --footer-text-color: #fff;
   --bg-album-card: #dad9d9;
+  --bg-album-card-partial: #ffe068;
   --bg-album-card-absent: #d0b0b0;
 }
 
@@ -177,6 +178,21 @@ main.game-list {
   background-color: var(--bg-album-card);
   border-radius: 5px;
 }
+.game-card-partial {
+  flex: 25%;
+  /* border: 1px solid black; */
+  min-height: 250px;
+  margin: 0.2rem;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 250px;
+  padding-left: 255px;
+  padding-top: 0.1rem;
+  padding-right: 0.1rem;
+  padding-bottom: 0.1rem;
+  background-color: var(--bg-album-card-partial);
+  border-radius: 5px;
+}
 .game-card-absent {
   flex: 25%;
   /* border: 1px solid black; */
@@ -199,6 +215,9 @@ main.game-list {
   .game-card {
     flex: 50%;
   }
+  .game-card-partial {
+    flex: 50%;
+  }
   .game-card-absent {
     flex: 50%;
   }
@@ -211,6 +230,12 @@ main.game-list {
     flex-direction: column;
   }
   .game-card {
+    background-position: top;
+    padding-left: 0.1rem;
+    padding-top: 255px;
+    min-height: auto;
+  }
+  .game-card-partial {
     background-position: top;
     padding-left: 0.1rem;
     padding-top: 255px;

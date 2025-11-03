@@ -98,7 +98,7 @@ lang: FR
 condition: new
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: pre-command
+location: shipping
 
 ## BGG link, like : 68448/7-wonders
 bgg: 416079/march-of-the-ants-evolved-edition

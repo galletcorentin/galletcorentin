@@ -9,24 +9,17 @@
     <lastBuildDate>Tue, 19 Aug 2025 09:35:35 +0200</lastBuildDate>
     <atom:link href="https://galletcorentin.github.io/galletcorentin/boardgames/public/location/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Shipping</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/shipping/</link>
-      <pubDate>Tue, 19 Aug 2025 09:35:35 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/shipping/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pre-Command</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/pre-command/</link>
-      <pubDate>Sat, 21 Jun 2025 21:02:19 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/pre-command/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Vénissieux</title>
       <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/v%C3%A9nissieux/</link>
-      <pubDate>Tue, 03 Jun 2025 01:45:57 +0200</pubDate>
+      <pubDate>Tue, 19 Aug 2025 09:35:35 +0200</pubDate>
       <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/v%C3%A9nissieux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shipping</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/shipping/</link>
+      <pubDate>Sun, 29 Jun 2025 18:14:16 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/shipping/</guid>
       <description></description>
     </item>
     <item>
@@ -37,10 +30,10 @@
       <description></description>
     </item>
     <item>
-      <title>At Work</title>
-      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/at-work/</link>
-      <pubDate>Sun, 14 Apr 2024 22:24:56 +0200</pubDate>
-      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/at-work/</guid>
+      <title>Vénissieux and More Incoming</title>
+      <link>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/v%C3%A9nissieux-and-more-incoming/</link>
+      <pubDate>Sun, 14 Apr 2024 22:23:53 +0200</pubDate>
+      <guid>https://galletcorentin.github.io/galletcorentin/boardgames/public/location/v%C3%A9nissieux-and-more-incoming/</guid>
       <description></description>
     </item>
   </channel>

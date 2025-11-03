@@ -40,10 +40,10 @@ players:
   - 2 players
   - 3 players
   - 4 players
-  - 5 players
-  - 6 players
-  - 7 players
-  - 8 players
+#  - 5 players
+#  - 6 players
+#  - 7 players
+#  - 8 players
 #  - 9 players+
 
 ## Addons
@@ -92,13 +92,13 @@ universe:
 year: 2022
 
 ##FR / EN / FR+EN
-lang: FR
+lang: IT
 
 ## What is its condition, new ? used ? bad ?
 condition: new
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: shipping
+location: Vénissieux
 
 ## BGG link, like : 68448/7-wonders
 bgg: 361545/twilight-inscription

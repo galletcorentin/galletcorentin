@@ -101,7 +101,7 @@ lang: FR
 condition: new
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: pre-command
+location: shipping
 
 ## BGG link, like : 68448/7-wonders
 bgg: 440147/agricola-special-edition

@@ -83,7 +83,7 @@ universe:
 extensions:
   - Power pack II
 
-location: at work
+location: Vénissieux
 
 bgg: 40692/small-world
 

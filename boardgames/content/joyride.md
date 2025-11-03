@@ -12,6 +12,7 @@ publisher: Rebellion Unplugged
 extension:
   - Base game (2 players)
   - Arena (4 players)
+  - Full Throttle (still shipping)
 
 ## Categories
 category:
@@ -85,7 +86,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Vénissieux
+location: Vénissieux and more incoming
 
 bgg: 371183/joyride-survival-of-the-fastest
 

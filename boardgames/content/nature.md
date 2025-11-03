@@ -49,6 +49,13 @@ players:
 ## Addons
 extensions:
   - Jurassic
+  - Birds
+  - Amazonia
+  - Disasters
+  - Arctics
+  - Elefant graveyard
+  - Eggs
+  - Wooden meeples
 
 # Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign
 time: one hour
@@ -98,7 +105,7 @@ lang: FR
 condition: new
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: pre-command
+location: Vénissieux
 
 ## BGG link, like : 68448/7-wonders
 bgg: 330152/nature

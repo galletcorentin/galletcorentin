@@ -29,7 +29,7 @@ extensions:
   - Tower
   - Inferno
   - Big box
-  - Soon : Fortress, Islands
+  - Fortress, Islands (still shipping)
 
 ## Cover image : will be displayed in the album list and top page.
 ## Display a default one unless you change this value.
@@ -90,7 +90,7 @@ universe:
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Vénissieux
+location: Vénissieux and more incoming
 
 bgg: 355326/heroes-of-might-and-magic-iii-the-board-game
 
