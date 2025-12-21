@@ -49,7 +49,7 @@ time: 2-3 hours
 interaction:
 #  - Alliance
 #  - Casual
-#  - Competitive
+  - Competitive
 #  - Co-operative
   - Diplomacy
   - Elimination
@@ -76,12 +76,12 @@ universe:
 #   - this-album/pict.jpg
 
 ## The publish year
-# year: 1990
+year: 2023
 
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: Vénissieux
+location: Vénissieux and more incoming
 
 bgg: 244054/ember-obsidian-protocol
 

@@ -71,11 +71,14 @@ universe:
 
 extensions:
   - Abandonned mines
-  - Hall of ancestors
+  - Hall of ancestors x2
   - Dwarven mine
-  - Fantasy Dungeon
+  - Fantasy dungeon x2
   - Chambers of torment
-  - Missing : Fantasy dungeon x1, Hall of ancestor x1, Sewer x2, city street x1, cavern x1, web lair x1, ritual site x1
+  - Cavern
+  - Web lair
+  - Ritual site
+  - Missing : Sewers x2, City street x1, Boat
 
 ## Any supplementary pictures you want to display.
 ## These pictures should be in the site asset folder : <your hugo site>/static

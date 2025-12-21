@@ -49,7 +49,7 @@ players:
 #  - 9 players+
 
 # Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign
-time: 2-3 hours
+time: one hour
 
 interaction:
 #  - Alliance

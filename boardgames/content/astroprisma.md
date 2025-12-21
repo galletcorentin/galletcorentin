@@ -12,7 +12,7 @@ publisher: Crescent Chimera
 ## Categories
 category:
 #  - Cards
-#  - Dice
+  - Dice
 #  - Draft
 #  - Engine building
 #  - Evolution-like
@@ -38,9 +38,9 @@ cover: astroprisma.png
 
 players:
   - 1 player
-#  - 2 players
-#  - 3 players
-#  - 4 players
+  - 2 players
+  - 3 players
+  - 4 players
 #  - 5 players
 #  - 6 players
 #  - 7 players
@@ -54,12 +54,12 @@ interaction:
 #  - Alliance
 #  - Casual
 #  - Competitive
-#  - Co-operative
+  - Co-operative
 #  - Diplomacy
 #  - Elimination
 #  - Limited spots
 #  - Secret identities
-- Solo only
+  - Solo only
 
 universe:
   - Cyber
@@ -83,12 +83,12 @@ pictures:
   - astroprisma_example.jpg
 
 ## The publish year
-year: 2024
+year: 2025
 
 ## What is its condition, new ? used ? bad ?
 condition: new
 
-location: shipping
+location: Vénissieux
 
 ## Below the metadata block, you can write some content such as a review or anything else you want. It'll be displayed in the album page.
 ---

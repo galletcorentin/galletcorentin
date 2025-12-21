@@ -81,7 +81,8 @@ pictures:
 extensions:
   - Base game V1
   - Engine meeples
-  - Soon : update V2 and two full boxes
+  - Updated to V2
+  - V2 full boxes x2
 
 ## What is its condition, new ? used ? bad ?
 #condition: new

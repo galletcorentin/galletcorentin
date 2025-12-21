@@ -58,7 +58,7 @@ interaction:
 #  - Competitive
 #  - Co-operative
   - Diplomacy
-  - Elimination
+#  - Elimination
 #  - Limited spots
 #  - Secret identities
 
@@ -81,10 +81,10 @@ universe:
 #   - this-album/pict.jpg
 
 ## The publish year
-# year: 1990
+year: 2023
 
 ## What is its condition, new ? used ? bad ?
-#condition: new
+condition: new
 
 location: Vénissieux and more incoming
 

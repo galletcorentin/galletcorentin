@@ -76,12 +76,12 @@ universe:
 #   - this-album/pict.jpg
 
 ## The publish year
-# year: 1990
+year: 2025
 
 ## What is its condition, new ? used ? bad ?
 #condition: new
 
-location: shipping
+location: Vénissieux
 
 ## Below the metadata block, you can write some content such as a review or anything else you want. It'll be displayed in the album page.
 ---

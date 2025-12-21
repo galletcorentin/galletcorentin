@@ -53,8 +53,7 @@ extensions:
   - Fleet stands
   - Vote board
   - Score board
-  - Faction cards (for drafting)
-  - Thunder's Edge (still shipping)
+  - Thunder's Edge
 
 # Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign
 time: whole day
@@ -94,7 +93,7 @@ pictures:
 ## What is its condition, new ? used ? bad ?
 condition: used
 
-location: Vénissieux and more incoming
+location: Vénissieux
 
 bgg: 233078/twilight-imperium-fourth-edition
 

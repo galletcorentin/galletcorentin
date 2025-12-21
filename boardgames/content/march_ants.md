@@ -49,6 +49,7 @@ players:
 ## Addons
 extensions:
   - Deluxe kit
+  - Guardians
 
 # Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign
 time: 2-3 hours
@@ -58,9 +59,9 @@ interaction:
 #  - Casual
 #  - Commerce
 #  - Competitive
-#  - Co-operative
+  - Co-operative
 #  - Diplomacy
-  - Elimination
+#  - Elimination
   - Limited spots
 #  - Market river
 #  - Secret identities
@@ -98,7 +99,7 @@ lang: FR
 condition: new
 
 ## Location : Vénissieux, Montigny, shipping, pre-command
-location: shipping
+location: Vénissieux
 
 ## BGG link, like : 68448/7-wonders
 bgg: 416079/march-of-the-ants-evolved-edition

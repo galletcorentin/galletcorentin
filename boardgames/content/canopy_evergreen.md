@@ -37,14 +37,14 @@ players:
   - 2 players
   - 3 players
   - 4 players
-  - 5 players
-  - 6 players
+#  - 5 players
+#  - 6 players
 #  - 7 players
 #  - 8 players
 #  - 9 players+
 
 # Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign
-time: 2-3 hours
+time: one hour
 
 interaction:
 #  - Alliance
@@ -76,12 +76,12 @@ universe:
 #   - this-album/pict.jpg
 
 ## The publish year
-# year: 1990
+year: 2024
 
 ## What is its condition, new ? used ? bad ?
-#condition: new
+condition: new
 
-location: shipping
+location: Vénissieux
 
 bgg: 391886/canopy-evergreen
 

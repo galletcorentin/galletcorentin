@@ -40,8 +40,8 @@ players:
   - 2 players
   - 3 players
   - 4 players
-#  - 5 players
-#  - 6 players
+  - 5 players
+  - 6 players
 #  - 7 players
 #  - 8 players
 #  - 9 players+
@@ -67,8 +67,8 @@ interaction:
 #  - Competitive
 #  - Co-operative
 #  - Diplomacy
-  - Elimination
-#  - Limited spots
+#  - Elimination
+  - Limited spots
 #  - Market river
 #  - Secret identities
 #  - Solo only

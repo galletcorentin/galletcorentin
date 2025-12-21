@@ -23,6 +23,9 @@ category:
   - Tabletop
 
 extensions:
+  - Titans
+  - Asymetrical leaders
+  - Deluxe tokens
   - Pirates (5th faction)
 
 ## Cover image : will be displayed in the album list and top page.
@@ -79,10 +82,10 @@ universe:
 #   - this-album/pict.jpg
 
 ## The publish year
-# year: 1990
+year: 2025
 
 ## What is its condition, new ? used ? bad ?
-#condition: new
+condition: new
 
 location: Vénissieux
 

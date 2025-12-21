@@ -29,6 +29,8 @@ extensions:
   - Alternative round order
   - Purple weapons
   - More dice
+  - All additional species (x4)
+  - Additional techs
 
 ## Cover image : will be displayed in the album list and top page.
 ## Display a default one unless you change this value.
@@ -48,8 +50,8 @@ players:
   - 4 players
   - 5 players
   - 6 players
-#  - 7 players
-#  - 8 players
+  - 7 players
+  - 8 players
 #  - 9 players+
 
 # Duration : fast / one hour / 2-3 hours / half a day / whole day / campaign
@@ -88,7 +90,7 @@ pictures:
 # year: 1990
 
 ## What is its condition, new ? used ? bad ?
-#condition: new
+condition: new
 
 location: Vénissieux
 
